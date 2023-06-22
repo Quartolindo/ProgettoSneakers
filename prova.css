@@ -1,0 +1,43 @@
+.custom-toggler,  .navbar-toggler-icon{
+    border-color: white;
+
+}
+.imgLogo{
+    width: 50px;
+    height: 50px;;
+}
+.backgroundCustom {
+    height:125vh;
+    width: 100%;
+    background-image: url(./ScarpeHype.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+  }
+  .imgCustom1 {
+    height:70vh;
+    background-image: url(./NikeShoes.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   }
+   .imgCustom2 {
+    height: 42vh;
+    background-image: url(./YeezyImg.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   }
+   .card:hover{
+    transform: scale(1.2);
+    transition: 1s;
+  }
+  .imgCard{
+    height: 200px;
+    width: 100%;
+  }
+  .cardCustom{
+    height: 450px;
+  }
+   
